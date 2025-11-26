@@ -10,6 +10,43 @@
   --color-foreground: var(--foreground);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
+
+  /* Primary */
+  --color-primary-50: #fff3ee;
+  --color-primary-100: #ffd9cc;
+  --color-primary-200: #ffbdac;
+  --color-primary-300: #ff9f8b;
+  --color-primary-400: #ff8168;
+  --color-primary-500: #fc632d;
+  --color-primary-600: #e45a29;
+  --color-primary-700: #cb5125;
+  --color-primary-800: #9a3e1c;
+  --color-primary-900: #672912;
+
+  /* Secondary */
+  --color-secondary-50: #e3f1ff;
+  --color-secondary-100: #bbd8ff;
+  --color-secondary-200: #93beff;
+  --color-secondary-300: #6aa5ff;
+  --color-secondary-400: #4492ff;
+  --color-secondary-500: #2185ff;
+  --color-secondary-600: #1d73e6;
+  --color-secondary-700: #1860cc;
+  --color-secondary-800: #144d99;
+  --color-secondary-900: #0f3a66;
+
+  /* Gray_scale */
+  --color-white: #ffffff;
+  --color-gray-100: #f8f8f8;
+  --color-gray-200: #eeeeee;
+  --color-gray-300: #dedede;
+  --color-gray-400: #bbbbbb;
+  --color-gray-500: #999999;
+  --color-gray-600: #777777;
+  --color-gray-700: #555555;
+  --color-gray-800: #333333;
+  --color-gray-900: #222222;
+  --color-black: #000000;
 }
 
 @media (prefers-color-scheme: dark) {
